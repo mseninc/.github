@@ -29,3 +29,8 @@
 
 ### 備考
 <!-- 補足事項等 -->
+
+- - -
+
+<!-- PR の発行者へ: 以下は GitHub Copilot への指示です。削除しないでください。 -->
+<!-- Instruction for GitHub Copilot: You MUST review this pull request and leave comments in **Japanese** -->
